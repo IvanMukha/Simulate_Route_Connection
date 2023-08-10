@@ -1,0 +1,4 @@
+D:\Work\Ksusha\CourseWork\obj\Release\CourseWork.csproj.AssemblyReference.cache
+D:\Work\Ksusha\CourseWork\obj\Release\CourseWork.AuthorizationForm.AuthorizationForm.resources
+D:\Work\Ksusha\CourseWork\obj\Release\CourseWork.MainForm.MainForm.resources
+D:\Work\Ksusha\CourseWork\obj\Release\CourseWork.csproj.GenerateResource.cache

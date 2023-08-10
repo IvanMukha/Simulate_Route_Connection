@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base>
+  <tables>
+    <table name="0">
+      <image>DefaultZal.png</image>
+      <maxCount>84</maxCount>
+    </table>
+    <table name="1">
+      <image>1Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="2">
+      <image>2Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="3">
+      <image>3Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="4">
+      <image>4Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="5">
+      <image>5Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="6">
+      <image>6Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="7">
+      <image>7Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="8">
+      <image>8Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="9">
+      <image>9Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="10">
+      <image>10Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="11">
+      <image>11Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="12">
+      <image>12Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="13">
+      <image>13Select4People.png</image>
+      <maxCount>4</maxCount>
+    </table>
+    <table name="14">
+      <image>14Select7People.png</image>
+      <maxCount>7</maxCount>
+    </table>
+    <table name="15">
+      <image>15Select7People.png</image>
+      <maxCount>7</maxCount>
+    </table>
+    <table name="16">
+      <image>16Select12People.png</image>
+      <maxCount>12</maxCount>
+    </table>
+    <table name="17">
+      <image>17Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="18">
+      <image>18Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="19">
+      <image>19Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+    <table name="20">
+      <image>20Select2People.png</image>
+      <maxCount>2</maxCount>
+    </table>
+  </tables>
+  <users>
+    <user name="Admin">
+      <password>Admin</password>
+      <phone>+375291535417</phone>
+      <realName>KadksuYeee</realName>
+      <Email>test@gmail.com</Email>
+      <RezervedTables>
+      </RezervedTables>
+    </user>
+    <user name="test">
+      <password>test</password>
+      <phone>+375297278189</phone>
+      <Email>lala@mail.ru</Email>
+      <realName>Lala</realName>
+      <RezervedTables>
+      </RezervedTables>
+    </user>
+  </users>
+</base>

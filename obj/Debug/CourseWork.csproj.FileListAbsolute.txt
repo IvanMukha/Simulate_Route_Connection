@@ -1,0 +1,11 @@
+D:\Work\Ksusha\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Work\Ksusha\CourseWork\bin\Debug\CourseWork.exe
+D:\Work\Ksusha\CourseWork\bin\Debug\CourseWork.pdb
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.AuthForm.AuthorizationForm.resources
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.MainForm.MainForm.resources
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.exe
+D:\Work\Ksusha\CourseWork\obj\Debug\CourseWork.pdb

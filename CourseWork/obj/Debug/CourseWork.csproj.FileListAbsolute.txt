@@ -1,0 +1,32 @@
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\University\Семестр 4\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.Views.RouterSimulatorImpl.resources
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.Views.RouterSimulatorImpl.resources
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\Uni 2 course\4 sem\окс 2\Компьютерные системы\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.Views.RouterSimulatorImpl.resources
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Ivan\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
